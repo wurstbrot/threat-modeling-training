@@ -127,6 +127,7 @@ Es gibt einige interessante Sicherheitskontrollen für das Zahlungssystem
 
 – Es gibt eine strenge Eingabevalidierung für Kreditkartenwerte, die zur Verhinderung von SQL-Injection- und Stored-XSS-Angriffen eingesetzt wird
 – Wir stellen sicher, dass die folgenden Felder keine unerwarteten Eingaben enthalten
+
   – Mandanten-ID
   – Name der Organisation
   – Name des Karteninhabers
