@@ -23,7 +23,7 @@ Um unseren kleineren Kunden einen besseren Service zu bieten, können sie per Kr
 
 Bevor wir die gespeicherte Kreditkarte aktualisieren, möchten wir sicherstellen, dass die Kreditkarte gültig ist. Das System wird einen API-Aufruf an VISA senden und überprüfen, ob die Karte authentisch und verwendbar ist.
 
-**_HINWEIS: Das Unternehmen wird die Kreditkarteninformationen zu Abrechnungszwecken speichern, da wir nicht möchten, dass ein Drittanbieter die Kreditkarten belastet, weil dieser eine Gebühr von 5 % erhebt. 5 % scheinen nicht allzu viel zu sein, aber es summiert sich schnell_**
+**HINWEIS: Das Unternehmen wird die Kreditkarteninformationen zu Abrechnungszwecken speichern, da wir nicht möchten, dass ein Drittanbieter die Kreditkarten belastet, weil dieser eine Gebühr von 5 % erhebt. 5 % scheinen nicht allzu viel zu sein, aber es summiert sich schnell**
 
 **_HINWEIS: Der Anruf beim Endpunkt von VISA ist für die ersten 1.000 API-Aufrufe an einem Tag kostenlos, danach werden 5,00 $ für jeden Satz von 1.000 Aufrufen berechnet.
 
