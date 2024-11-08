@@ -25,7 +25,7 @@ Bevor wir die gespeicherte Kreditkarte aktualisieren, möchten wir sicherstellen
 
 **HINWEIS: Das Unternehmen wird die Kreditkarteninformationen zu Abrechnungszwecken speichern, da wir nicht möchten, dass ein Drittanbieter die Kreditkarten belastet, weil dieser eine Gebühr von 5 % erhebt. 5 % scheinen nicht allzu viel zu sein, aber es summiert sich schnell**
 
-**_HINWEIS: Der Anruf beim Endpunkt von VISA ist für die ersten 1.000 API-Aufrufe an einem Tag kostenlos, danach werden 5,00 $ für jeden Satz von 1.000 Aufrufen berechnet.
+**HINWEIS: Der Anruf beim Endpunkt von VISA ist für die ersten 1.000 API-Aufrufe an einem Tag kostenlos, danach werden 5,00 $ für jeden Satz von 1.000 Aufrufen berechnet.
 
 ## Anforderungen
 
